@@ -1,0 +1,22 @@
+# stock-screener 설정
+# 변경 후 즉시 반영됨 (스크립트 재시작 불필요).
+
+screens:
+  big_movers:
+    label: "거래대금 1000억+ & 등락률 +10%+ (대형주 강한 상승)"
+    min_value: 1.0e11        # 1000억원
+    min_change_pct: 10.0
+  surge:
+    label: "급등주 (등락률 +20%+, 거래대금 10억+)"
+    min_value: 1.0e9         # 10억원 (저유동성 노이즈 컷)
+    min_change_pct: 20.0
+
+tradingview:
+  # KOSDAQ 종목도 chart URL은 `KRX:` prefix로 통일됨 (예: KRX%3A425040 → 티이엠씨/KOSDAQ).
+  # %3A 는 URL-encoded ':'.
+  url_template:
+    KOSPI:  "https://www.tradingview.com/chart/?symbol=KRX%3A{ticker}"
+    KOSDAQ: "https://www.tradingview.com/chart/?symbol=KRX%3A{ticker}"
+
+report:
+  sort_by: change_pct_desc

@@ -1,0 +1,39 @@
+# stock-theme 설정
+# 가중치/임계값을 여기서 조정. 변경 후 즉시 반영됨 (스크립트 재시작 불필요).
+
+scoring:
+  stock:
+    momentum_norm: 5.0           # change_pct 를 나눌 분모(%). 5%가 1.0이 됨.
+    momentum_clip_pos: 3.0       # 상한 (15% 이상은 포화). 한국 상한가 30% 반영.
+    momentum_clip_neg: -2.0      # 하한 (-10% 이하는 포화).
+    momentum_weight: 0.45
+    vol_intensity_weight: 0.45
+    vol_intensity_clip: 3.0      # log10(value/p50) 의 상한. 1000x 거래대금까지 반영.
+    min_trade_value: 1.0e9       # 거래대금 컷 (원). --min-value 인자로 오버라이드.
+
+  theme:
+    weighted_score_weight: 0.50
+    breadth_weight: 0.30
+    n_factor_weight: 0.20
+    n_factor_saturate_at: 10     # 10종목에서 포화
+    min_stocks_per_theme: 3      # 종목 < 3 인 테마는 노이즈로 필터
+    mcap_weight_power: 0.5       # sqrt(mcap). 1.0=시총비례, 0.0=균등.
+
+data:
+  market_codes: ["KOSPI", "KOSDAQ"]
+  cache_ttl_days: 14             # 캐시 자동 정리 기준 (현재 미사용, 수동 정리)
+
+theme_mapping:
+  source_priority:
+    - naver
+    - static_dict
+  naver_min_themes: 50           # 네이버 결과 < 50 이면 폴백 트리거
+  naver_throttle_sec: 1.5
+  naver_user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+  static_dict_path: "reference/theme_dict.yaml"
+  cache_ttl_hours: 24
+
+report:
+  default_top: 10
+  representatives_per_theme: null   # null/0/"all" = 테마 내 전체 종목 표시. 숫자면 그만큼만.
+  show_negative_themes: true
