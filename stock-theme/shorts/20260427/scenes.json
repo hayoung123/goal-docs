@@ -1,0 +1,128 @@
+{
+  "date": "20260427",
+  "duration_target_sec": 60,
+  "voiceover_locale": "ko-KR",
+  "voiceover_voice": "ko-KR-SunHiNeural",
+  "source_report": "/Users/proshy/Desktop/goal/stock-theme/report_20260427.json",
+  "scenes": [
+    {
+      "id": 1,
+      "role": "hook",
+      "duration_sec": 5,
+      "voiceover": "오늘 이거 하나만 기억하세요. 한미반도체, 26.4% 갔어요. 신고가 또 갈았습니다.",
+      "subtitle": "한미반도체 +26.4% 신고가",
+      "visual": {
+        "kind": "title_card",
+        "title": "한미반도체 +26.4%",
+        "subtitle": "신고가 또 갈았다",
+        "tickers": [],
+        "primary_ticker": null
+      },
+      "audio_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/scenes/scene_01.mp3",
+      "asset_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/assets/scene_01_title_card.png",
+      "actual_duration_sec": 7.66,
+      "_date": "2026.04.27"
+    },
+    {
+      "id": 2,
+      "role": "summary",
+      "duration_sec": 8,
+      "voiceover": "코스피, 6600 처음 뚫었어요. 시총 6000조도 사상 첫 돌파. AI랑 휴전 연장이 한 방에 터진 날입니다.",
+      "subtitle": "코스피 6600 · 시총 6000조 첫 돌파",
+      "visual": {
+        "kind": "title_card",
+        "title": "2026.04.27 한국 증시",
+        "subtitle": "코스피 6600 · 시총 6000조 첫 돌파",
+        "tickers": [],
+        "primary_ticker": null
+      },
+      "audio_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/scenes/scene_02.mp3",
+      "asset_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/assets/scene_02_title_card.png",
+      "actual_duration_sec": 8.88,
+      "_date": "2026.04.27"
+    },
+    {
+      "id": 3,
+      "role": "theme",
+      "duration_sec": 12,
+      "voiceover": "1등 테마는 AI반도체였어요. 한미반도체 신고가 또 갈았고, SK하이닉스는 장중 130만원 처음 뚫었습니다. 거래대금만 5.88조, 시장 1위.",
+      "subtitle": "1위 AI반도체 / 한미 +26.4% · SK 130만원",
+      "visual": {
+        "kind": "chart",
+        "title": "AI반도체 1위",
+        "subtitle": "score 131.4 · breadth 100%",
+        "tickers": [
+          "042700",
+          "000660"
+        ],
+        "primary_ticker": "042700"
+      },
+      "audio_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/scenes/scene_03.mp3",
+      "asset_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/assets/scene_03_chart.png",
+      "actual_duration_sec": 11.45,
+      "_date": "2026.04.27"
+    },
+    {
+      "id": 4,
+      "role": "theme",
+      "duration_sec": 12,
+      "voiceover": "근데 진짜는 따로 있어요. 전선주가 통째로 휩쓸렸습니다. 휴전 연장에 북미 전력망 수요까지 겹친 날. 대원전선 +12.75%, 일진전기 +13.89%.",
+      "subtitle": "2위 전선 / 대원 +12.75% · 일진 +13.89%",
+      "visual": {
+        "kind": "theme_card",
+        "title": "전선 통째로 휩쓸",
+        "subtitle": "score 127.1 · breadth 100%",
+        "tickers": [
+          "006340",
+          "103590"
+        ],
+        "primary_ticker": "006340"
+      },
+      "audio_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/scenes/scene_04.mp3",
+      "asset_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/assets/scene_04_theme_card.png",
+      "actual_duration_sec": 12.84,
+      "_date": "2026.04.27"
+    },
+    {
+      "id": 5,
+      "role": "theme",
+      "duration_sec": 12,
+      "voiceover": "세 번째는 전력기기. LS일렉트릭, 1분기 사상 최대실적 터지면서 12.8% 갔어요. HD현대 그룹 시총은 200조까지 처음 뚫었습니다.",
+      "subtitle": "3위 전력기기 / LS +12.8% · HD현대 200조",
+      "visual": {
+        "kind": "theme_card",
+        "title": "전력기기 빵 터졌다",
+        "subtitle": "score 119.7 · breadth 80%",
+        "tickers": [
+          "010120",
+          "267260"
+        ],
+        "primary_ticker": "010120"
+      },
+      "audio_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/scenes/scene_05.mp3",
+      "asset_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/assets/scene_05_theme_card.png",
+      "actual_duration_sec": 11.06,
+      "_date": "2026.04.27"
+    },
+    {
+      "id": 6,
+      "role": "closer",
+      "duration_sec": 8,
+      "voiceover": "한 줄 정리. 오늘은 반도체랑 전력 인프라, 딱 두 축이에요. 내일도 같이 봐요. 구독·알림 ON 부탁해요.",
+      "subtitle": "반도체 + 전력 인프라 쌍끌이",
+      "visual": {
+        "kind": "closer",
+        "title": "내일도 같이 봐요",
+        "subtitle": "구독·알림 ON",
+        "tickers": [],
+        "primary_ticker": null
+      },
+      "audio_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/scenes/scene_06.mp3",
+      "asset_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/assets/scene_06_closer.png",
+      "actual_duration_sec": 8.95,
+      "_date": "2026.04.27"
+    }
+  ],
+  "voiceover_path": "/Users/proshy/Desktop/goal/stock-theme/shorts/20260427/voiceover.mp3",
+  "voiceover_actual_duration_sec": 60.84
+}
