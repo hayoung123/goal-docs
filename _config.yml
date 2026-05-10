@@ -1,0 +1,21 @@
+title: goal-docs
+description: 한국 시장 일일 스크리너 + 테마 리포트
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - "**/*.json"
+  - "**/*.parquet"
+  - "**/*.yaml"
+  - "**/*.toml"
+  - "**/scripts/"
+  - "**/.venv/"
+  - "**/cache/"
+  - "**/__pycache__/"
+  - "**/SKILL.md"
+  - "stock-screener/watchlist/notes/"
+  - "Gemfile"
+  - "Gemfile.lock"
