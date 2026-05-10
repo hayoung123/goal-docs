@@ -18,6 +18,17 @@ title: goal-docs
 {% endfor %}
 </ul>
 
+## 🪙 코인 스크리너 (일일)
+
+업비트 KRW 마켓. 지속 강세(현재 +10%+) / 장중 펌핑(고점 +20%+) 두 조건.
+
+{% assign crypto_md = site.pages | where_exp: "p", "p.path contains 'crypto-screener/screener_'" | sort: 'path' | reverse %}
+<ul>
+{% for p in crypto_md %}
+  <li><a href="{{ p.url | relative_url }}">{{ p.path | split: '/' | last | replace: '.md','' }}</a></li>
+{% endfor %}
+</ul>
+
 ## 🔥 테마 분석 (일일)
 
 거래량 폭발도 + 등락률 + breadth + 시총 가중 종합 테마 탐지.
