@@ -2,7 +2,7 @@
   "date": "20260510",
   "candle_date_time_kst": "2026-05-10T09:00:00",
   "in_progress": true,
-  "generated_at": "2026-05-10T21:53:55",
+  "generated_at": "2026-05-10T22:00:04",
   "screens": {
     "persistent": {
       "label": "지속 강세 (현재 등락률 +10%+)",
@@ -26,7 +26,12 @@
           "high_pct": 61.64383561643836,
           "value": 184436491960.29388,
           "volume": 954673914.2105848,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Solana Ecosystem",
+            "LSDFi"
+          ]
         },
         {
           "market": "KRW-QTUM",
@@ -42,7 +47,12 @@
           "high_pct": 23.44632768361582,
           "value": 16075210438.290571,
           "volume": 9948797.09662556,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Proof of Stake (PoS)",
+            "Made in China"
+          ]
         },
         {
           "market": "KRW-XEC",
@@ -58,7 +68,12 @@
           "high_pct": 39.28571428571428,
           "value": 53394234101.2008,
           "volume": 3776643571758.5054,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 1 (L1)",
+            "Bitcoin Fork"
+          ]
         },
         {
           "market": "KRW-CVC",
@@ -74,7 +89,12 @@
           "high_pct": 11.594202898550728,
           "value": 3210016464.168221,
           "volume": 62262921.6957118,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ACVCKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ACVCKRW",
+          "theme_categories": [
+            "Software as a service",
+            "Polygon Ecosystem",
+            "Ethereum Ecosystem"
+          ]
         }
       ]
     },
@@ -100,7 +120,12 @@
           "high_pct": 61.64383561643836,
           "value": 184436491960.29388,
           "volume": 954673914.2105848,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Solana Ecosystem",
+            "LSDFi"
+          ]
         },
         {
           "market": "KRW-XEC",
@@ -116,7 +141,12 @@
           "high_pct": 39.28571428571428,
           "value": 53394234101.2008,
           "volume": 3776643571758.5054,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 1 (L1)",
+            "Bitcoin Fork"
+          ]
         },
         {
           "market": "KRW-WAL",
@@ -132,7 +162,12 @@
           "high_pct": 25.210084033613445,
           "value": 13690529624.203976,
           "volume": 101540588.35353757,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AWALKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AWALKRW",
+          "theme_categories": [
+            "Infrastructure",
+            "Storage",
+            "Sui Ecosystem"
+          ]
         },
         {
           "market": "KRW-SNT",
@@ -148,7 +183,12 @@
           "high_pct": 25.16556291390728,
           "value": 19050388812.618484,
           "volume": 1106561746.0224953,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASNTKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASNTKRW",
+          "theme_categories": [
+            "Infrastructure",
+            "Smart Contract Platform",
+            "SocialFi"
+          ]
         },
         {
           "market": "KRW-QTUM",
@@ -164,7 +204,12 @@
           "high_pct": 23.44632768361582,
           "value": 16075210438.290571,
           "volume": 9948797.09662556,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW"
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Proof of Stake (PoS)",
+            "Made in China"
+          ]
         }
       ]
     }
