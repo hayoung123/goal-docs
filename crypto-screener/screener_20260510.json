@@ -2,71 +2,13 @@
   "date": "20260510",
   "candle_date_time_kst": "2026-05-10T09:00:00",
   "in_progress": true,
-  "generated_at": "2026-05-10T21:51:22",
+  "generated_at": "2026-05-10T21:53:55",
   "screens": {
     "persistent": {
       "label": "지속 강세 (현재 등락률 +10%+)",
       "params": {
         "column": "change_pct",
         "min_pct": 10.0
-      },
-      "n": 3,
-      "rows": [
-        {
-          "market": "KRW-LAYER",
-          "base": "LAYER",
-          "korean_name": "솔레이어",
-          "candle_date_time_kst": "2026-05-10T09:00:00",
-          "opening_price": 147.0,
-          "high_price": 236.0,
-          "low_price": 143.0,
-          "trade_price": 193.0,
-          "prev_closing_price": 146.0,
-          "change_pct": 32.19178082,
-          "high_pct": 61.64383561643836,
-          "value": 183885452793.56296,
-          "volume": 951807913.0968257,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW"
-        },
-        {
-          "market": "KRW-XEC",
-          "base": "XEC",
-          "korean_name": "이캐시",
-          "candle_date_time_kst": "2026-05-10T09:00:00",
-          "opening_price": 0.0111,
-          "high_price": 0.0156,
-          "low_price": 0.0111,
-          "trade_price": 0.0133,
-          "prev_closing_price": 0.0112,
-          "change_pct": 18.75,
-          "high_pct": 39.28571428571428,
-          "value": 53184605916.51853,
-          "volume": 3760856466035.052,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW"
-        },
-        {
-          "market": "KRW-QTUM",
-          "base": "QTUM",
-          "korean_name": "퀀텀",
-          "candle_date_time_kst": "2026-05-10T09:00:00",
-          "opening_price": 1416.0,
-          "high_price": 1662.0,
-          "low_price": 1398.0,
-          "trade_price": 1656.0,
-          "prev_closing_price": 1416.0,
-          "change_pct": 16.94915254,
-          "high_pct": 17.372881355932204,
-          "value": 10888291738.621618,
-          "volume": 6910133.23861534,
-          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW"
-        }
-      ]
-    },
-    "pump": {
-      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
-      "params": {
-        "column": "high_pct",
-        "min_pct": 20.0
       },
       "n": 4,
       "rows": [
@@ -82,8 +24,82 @@
           "prev_closing_price": 146.0,
           "change_pct": 32.19178082,
           "high_pct": 61.64383561643836,
-          "value": 183885452793.56296,
-          "volume": 951807913.0968257,
+          "value": 184436491960.29388,
+          "volume": 954673914.2105848,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW"
+        },
+        {
+          "market": "KRW-QTUM",
+          "base": "QTUM",
+          "korean_name": "퀀텀",
+          "candle_date_time_kst": "2026-05-10T09:00:00",
+          "opening_price": 1416.0,
+          "high_price": 1748.0,
+          "low_price": 1398.0,
+          "trade_price": 1738.0,
+          "prev_closing_price": 1416.0,
+          "change_pct": 22.74011299,
+          "high_pct": 23.44632768361582,
+          "value": 16075210438.290571,
+          "volume": 9948797.09662556,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW"
+        },
+        {
+          "market": "KRW-XEC",
+          "base": "XEC",
+          "korean_name": "이캐시",
+          "candle_date_time_kst": "2026-05-10T09:00:00",
+          "opening_price": 0.0111,
+          "high_price": 0.0156,
+          "low_price": 0.0111,
+          "trade_price": 0.0133,
+          "prev_closing_price": 0.0112,
+          "change_pct": 18.75,
+          "high_pct": 39.28571428571428,
+          "value": 53394234101.2008,
+          "volume": 3776643571758.5054,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW"
+        },
+        {
+          "market": "KRW-CVC",
+          "base": "CVC",
+          "korean_name": "시빅",
+          "candle_date_time_kst": "2026-05-10T09:00:00",
+          "opening_price": 48.6,
+          "high_price": 53.9,
+          "low_price": 47.7,
+          "trade_price": 53.5,
+          "prev_closing_price": 48.3,
+          "change_pct": 10.76604555,
+          "high_pct": 11.594202898550728,
+          "value": 3210016464.168221,
+          "volume": 62262921.6957118,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ACVCKRW"
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 5,
+      "rows": [
+        {
+          "market": "KRW-LAYER",
+          "base": "LAYER",
+          "korean_name": "솔레이어",
+          "candle_date_time_kst": "2026-05-10T09:00:00",
+          "opening_price": 147.0,
+          "high_price": 236.0,
+          "low_price": 143.0,
+          "trade_price": 193.0,
+          "prev_closing_price": 146.0,
+          "change_pct": 32.19178082,
+          "high_pct": 61.64383561643836,
+          "value": 184436491960.29388,
+          "volume": 954673914.2105848,
           "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW"
         },
         {
@@ -98,8 +114,8 @@
           "prev_closing_price": 0.0112,
           "change_pct": 18.75,
           "high_pct": 39.28571428571428,
-          "value": 53184605916.51853,
-          "volume": 3760856466035.052,
+          "value": 53394234101.2008,
+          "volume": 3776643571758.5054,
           "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXECKRW"
         },
         {
@@ -110,12 +126,12 @@
           "opening_price": 119.0,
           "high_price": 149.0,
           "low_price": 118.0,
-          "trade_price": 123.0,
+          "trade_price": 125.0,
           "prev_closing_price": 119.0,
-          "change_pct": 3.3613445399999997,
+          "change_pct": 5.042016810000001,
           "high_pct": 25.210084033613445,
-          "value": 13503328906.913193,
-          "volume": 100027635.82073773,
+          "value": 13690529624.203976,
+          "volume": 101540588.35353757,
           "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AWALKRW"
         },
         {
@@ -130,9 +146,25 @@
           "prev_closing_price": 15.1,
           "change_pct": 5.9602649,
           "high_pct": 25.16556291390728,
-          "value": 18924229664.734283,
-          "volume": 1098673309.3277361,
+          "value": 19050388812.618484,
+          "volume": 1106561746.0224953,
           "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASNTKRW"
+        },
+        {
+          "market": "KRW-QTUM",
+          "base": "QTUM",
+          "korean_name": "퀀텀",
+          "candle_date_time_kst": "2026-05-10T09:00:00",
+          "opening_price": 1416.0,
+          "high_price": 1748.0,
+          "low_price": 1398.0,
+          "trade_price": 1738.0,
+          "prev_closing_price": 1416.0,
+          "change_pct": 22.74011299,
+          "high_pct": 23.44632768361582,
+          "value": 16075210438.290571,
+          "volume": 9948797.09662556,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AQTUMKRW"
         }
       ]
     }
