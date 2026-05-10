@@ -29,10 +29,6 @@ title: goal-docs
 {% endfor %}
 </ul>
 
-## 👀 Watchlist
-
-[watchlist 대시보드](./stock-screener/watchlist/) — TradingView 차트 위젯 임베드.
-
 ---
 
 [GitHub repo](https://github.com/hayoung123/goal-docs) · [README](./README.html)
