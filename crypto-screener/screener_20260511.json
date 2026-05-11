@@ -1,0 +1,66 @@
+{
+  "date": "20260511",
+  "candle_date_time_kst": "2026-05-11T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-11T22:32:08",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 1,
+      "rows": [
+        {
+          "market": "KRW-MBL",
+          "base": "MBL",
+          "korean_name": "무비블록",
+          "candle_date_time_kst": "2026-05-11T09:00:00",
+          "opening_price": 1.43,
+          "high_price": 2.0,
+          "low_price": 1.43,
+          "trade_price": 1.95,
+          "prev_closing_price": 1.42,
+          "change_pct": 37.32394366,
+          "high_pct": 40.845070422535215,
+          "value": 25773015548.234615,
+          "volume": 15032612814.076475,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMBLKRW",
+          "theme_categories": [
+            "DWF Labs Portfolio"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 1,
+      "rows": [
+        {
+          "market": "KRW-MBL",
+          "base": "MBL",
+          "korean_name": "무비블록",
+          "candle_date_time_kst": "2026-05-11T09:00:00",
+          "opening_price": 1.43,
+          "high_price": 2.0,
+          "low_price": 1.43,
+          "trade_price": 1.95,
+          "prev_closing_price": 1.42,
+          "change_pct": 37.32394366,
+          "high_pct": 40.845070422535215,
+          "value": 25773015548.234615,
+          "volume": 15032612814.076475,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMBLKRW",
+          "theme_categories": [
+            "DWF Labs Portfolio"
+          ]
+        }
+      ]
+    }
+  }
+}
