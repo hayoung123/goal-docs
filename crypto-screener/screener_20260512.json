@@ -1,0 +1,133 @@
+{
+  "date": "20260512",
+  "candle_date_time_kst": "2026-05-12T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-13T00:54:18",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-SAHARA",
+          "base": "SAHARA",
+          "korean_name": "사하라에이아이",
+          "candle_date_time_kst": "2026-05-12T09:00:00",
+          "opening_price": 53.5,
+          "high_price": 68.8,
+          "low_price": 53.1,
+          "trade_price": 64.9,
+          "prev_closing_price": 53.5,
+          "change_pct": 21.30841121,
+          "high_pct": 28.59813084112149,
+          "value": 98784756484.67683,
+          "volume": 1586126399.0555482,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASAHARAKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-PIEVERSE",
+          "base": "PIEVERSE",
+          "korean_name": "파이버스",
+          "candle_date_time_kst": "2026-05-12T09:00:00",
+          "opening_price": 1176.0,
+          "high_price": 1461.0,
+          "low_price": 1152.0,
+          "trade_price": 1353.0,
+          "prev_closing_price": 1176.0,
+          "change_pct": 15.05102041,
+          "high_pct": 24.23469387755102,
+          "value": 40381104635.52817,
+          "volume": 29853917.95553105,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APIEVERSEKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-FF",
+          "base": "FF",
+          "korean_name": "팔콘파이낸스",
+          "candle_date_time_kst": "2026-05-12T09:00:00",
+          "opening_price": 104.0,
+          "high_price": 117.0,
+          "low_price": 101.0,
+          "trade_price": 116.0,
+          "prev_closing_price": 105.0,
+          "change_pct": 10.47619048,
+          "high_pct": 11.428571428571429,
+          "value": 8389596330.138075,
+          "volume": 76163468.38046792,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AFFKRW",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-SAHARA",
+          "base": "SAHARA",
+          "korean_name": "사하라에이아이",
+          "candle_date_time_kst": "2026-05-12T09:00:00",
+          "opening_price": 53.5,
+          "high_price": 68.8,
+          "low_price": 53.1,
+          "trade_price": 64.9,
+          "prev_closing_price": 53.5,
+          "change_pct": 21.30841121,
+          "high_pct": 28.59813084112149,
+          "value": 98784756484.67683,
+          "volume": 1586126399.0555482,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASAHARAKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-PIEVERSE",
+          "base": "PIEVERSE",
+          "korean_name": "파이버스",
+          "candle_date_time_kst": "2026-05-12T09:00:00",
+          "opening_price": 1176.0,
+          "high_price": 1461.0,
+          "low_price": 1152.0,
+          "trade_price": 1353.0,
+          "prev_closing_price": 1176.0,
+          "change_pct": 15.05102041,
+          "high_pct": 24.23469387755102,
+          "value": 40381104635.52817,
+          "volume": 29853917.95553105,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APIEVERSEKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
