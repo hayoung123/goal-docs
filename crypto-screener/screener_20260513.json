@@ -1,0 +1,125 @@
+{
+  "date": "20260513",
+  "candle_date_time_kst": "2026-05-13T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-14T01:02:12",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-UP2",
+          "base": "UP2",
+          "korean_name": "슈퍼폼",
+          "candle_date_time_kst": "2026-05-13T09:00:00",
+          "opening_price": 175.0,
+          "high_price": 464.0,
+          "low_price": 175.0,
+          "trade_price": 315.0,
+          "prev_closing_price": 175.0,
+          "change_pct": 80.0,
+          "high_pct": 165.14285714285714,
+          "value": 163466650973.99127,
+          "volume": 417669368.750722,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AUP2KRW",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-INJ",
+          "base": "INJ",
+          "korean_name": "인젝티브",
+          "candle_date_time_kst": "2026-05-13T09:00:00",
+          "opening_price": 7090.0,
+          "high_price": 9050.0,
+          "low_price": 7005.0,
+          "trade_price": 8085.0,
+          "prev_closing_price": 7090.0,
+          "change_pct": 14.033850489999999,
+          "high_pct": 27.644569816643163,
+          "value": 72066708784.18942,
+          "volume": 8536442.83635495,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AINJKRW",
+          "theme_categories": [
+            "Cosmos Ecosystem",
+            "Terra Ecosystem",
+            "Osmosis Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-ZBT",
+          "base": "ZBT",
+          "korean_name": "제로베이스",
+          "candle_date_time_kst": "2026-05-13T09:00:00",
+          "opening_price": 230.0,
+          "high_price": 262.0,
+          "low_price": 229.0,
+          "trade_price": 255.0,
+          "prev_closing_price": 229.0,
+          "change_pct": 11.35371179,
+          "high_pct": 14.41048034934498,
+          "value": 12358848960.8965,
+          "volume": 49711230.4281253,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AZBTKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Decentralized Finance (DeFi)",
+            "BNB Chain Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-UP2",
+          "base": "UP2",
+          "korean_name": "슈퍼폼",
+          "candle_date_time_kst": "2026-05-13T09:00:00",
+          "opening_price": 175.0,
+          "high_price": 464.0,
+          "low_price": 175.0,
+          "trade_price": 315.0,
+          "prev_closing_price": 175.0,
+          "change_pct": 80.0,
+          "high_pct": 165.14285714285714,
+          "value": 163466650973.99127,
+          "volume": 417669368.750722,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AUP2KRW",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-INJ",
+          "base": "INJ",
+          "korean_name": "인젝티브",
+          "candle_date_time_kst": "2026-05-13T09:00:00",
+          "opening_price": 7090.0,
+          "high_price": 9050.0,
+          "low_price": 7005.0,
+          "trade_price": 8085.0,
+          "prev_closing_price": 7090.0,
+          "change_pct": 14.033850489999999,
+          "high_pct": 27.644569816643163,
+          "value": 72066708784.18942,
+          "volume": 8536442.83635495,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AINJKRW",
+          "theme_categories": [
+            "Cosmos Ecosystem",
+            "Terra Ecosystem",
+            "Osmosis Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
