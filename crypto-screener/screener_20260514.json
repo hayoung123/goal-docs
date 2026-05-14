@@ -1,0 +1,112 @@
+{
+  "date": "20260514",
+  "candle_date_time_kst": "2026-05-14T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-14T23:45:57",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-HP",
+          "base": "HP",
+          "korean_name": "히포프로토콜",
+          "candle_date_time_kst": "2026-05-14T09:00:00",
+          "opening_price": 23.8,
+          "high_price": 31.8,
+          "low_price": 23.8,
+          "trade_price": 27.3,
+          "prev_closing_price": 23.5,
+          "change_pct": 16.17021277,
+          "high_pct": 35.319148936170215,
+          "value": 33613187399.09345,
+          "volume": 1184516778.4200778,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AHPKRW",
+          "theme_categories": [
+            "Healthcare",
+            "Smart Contract Platform",
+            "Layer 1 (L1)"
+          ]
+        },
+        {
+          "market": "KRW-PIEVERSE",
+          "base": "PIEVERSE",
+          "korean_name": "파이버스",
+          "candle_date_time_kst": "2026-05-14T09:00:00",
+          "opening_price": 1369.0,
+          "high_price": 1598.0,
+          "low_price": 1360.0,
+          "trade_price": 1563.0,
+          "prev_closing_price": 1368.0,
+          "change_pct": 14.254385959999999,
+          "high_pct": 16.812865497076025,
+          "value": 57029216983.52583,
+          "volume": 37906596.81466972,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APIEVERSEKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-IMX",
+          "base": "IMX",
+          "korean_name": "이뮤터블엑스",
+          "candle_date_time_kst": "2026-05-14T09:00:00",
+          "opening_price": 273.0,
+          "high_price": 316.0,
+          "low_price": 272.0,
+          "trade_price": 307.0,
+          "prev_closing_price": 273.0,
+          "change_pct": 12.45421245,
+          "high_pct": 15.75091575091575,
+          "value": 9841717305.088692,
+          "volume": 32761518.48121171,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AIMXKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Gaming (GameFi)",
+            "NFT"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 1,
+      "rows": [
+        {
+          "market": "KRW-HP",
+          "base": "HP",
+          "korean_name": "히포프로토콜",
+          "candle_date_time_kst": "2026-05-14T09:00:00",
+          "opening_price": 23.8,
+          "high_price": 31.8,
+          "low_price": 23.8,
+          "trade_price": 27.3,
+          "prev_closing_price": 23.5,
+          "change_pct": 16.17021277,
+          "high_pct": 35.319148936170215,
+          "value": 33613187399.09345,
+          "volume": 1184516778.4200778,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AHPKRW",
+          "theme_categories": [
+            "Healthcare",
+            "Smart Contract Platform",
+            "Layer 1 (L1)"
+          ]
+        }
+      ]
+    }
+  }
+}
