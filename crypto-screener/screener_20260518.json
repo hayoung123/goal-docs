@@ -1,0 +1,133 @@
+{
+  "date": "20260518",
+  "candle_date_time_kst": "2026-05-18T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-19T00:15:12",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-TRAC",
+          "base": "TRAC",
+          "korean_name": "오리진트레일",
+          "candle_date_time_kst": "2026-05-18T09:00:00",
+          "opening_price": 444.0,
+          "high_price": 931.0,
+          "low_price": 444.0,
+          "trade_price": 637.0,
+          "prev_closing_price": 444.0,
+          "change_pct": 43.46846847,
+          "high_pct": 109.68468468468468,
+          "value": 105114311426.6699,
+          "volume": 137299263.64342216,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ATRACKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Polkadot Ecosystem",
+            "Metaverse"
+          ]
+        },
+        {
+          "market": "KRW-OPEN",
+          "base": "OPEN",
+          "korean_name": "오픈렛저",
+          "candle_date_time_kst": "2026-05-18T09:00:00",
+          "opening_price": 274.0,
+          "high_price": 320.0,
+          "low_price": 270.0,
+          "trade_price": 315.0,
+          "prev_closing_price": 273.0,
+          "change_pct": 15.38461538,
+          "high_pct": 17.216117216117215,
+          "value": 22202411291.507915,
+          "volume": 75556562.62201244,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AOPENKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-HYPER",
+          "base": "HYPER",
+          "korean_name": "하이퍼레인",
+          "candle_date_time_kst": "2026-05-18T09:00:00",
+          "opening_price": 156.0,
+          "high_price": 190.0,
+          "low_price": 153.0,
+          "trade_price": 172.0,
+          "prev_closing_price": 156.0,
+          "change_pct": 10.25641026,
+          "high_pct": 21.794871794871796,
+          "value": 20695698973.734722,
+          "volume": 117595709.0825853,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AHYPERKRW",
+          "theme_categories": [
+            "Infrastructure",
+            "BNB Chain Ecosystem",
+            "Arbitrum Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-TRAC",
+          "base": "TRAC",
+          "korean_name": "오리진트레일",
+          "candle_date_time_kst": "2026-05-18T09:00:00",
+          "opening_price": 444.0,
+          "high_price": 931.0,
+          "low_price": 444.0,
+          "trade_price": 637.0,
+          "prev_closing_price": 444.0,
+          "change_pct": 43.46846847,
+          "high_pct": 109.68468468468468,
+          "value": 105114311426.6699,
+          "volume": 137299263.64342216,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ATRACKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Polkadot Ecosystem",
+            "Metaverse"
+          ]
+        },
+        {
+          "market": "KRW-HYPER",
+          "base": "HYPER",
+          "korean_name": "하이퍼레인",
+          "candle_date_time_kst": "2026-05-18T09:00:00",
+          "opening_price": 156.0,
+          "high_price": 190.0,
+          "low_price": 153.0,
+          "trade_price": 172.0,
+          "prev_closing_price": 156.0,
+          "change_pct": 10.25641026,
+          "high_pct": 21.794871794871796,
+          "value": 20695698973.734722,
+          "volume": 117595709.0825853,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AHYPERKRW",
+          "theme_categories": [
+            "Infrastructure",
+            "BNB Chain Ecosystem",
+            "Arbitrum Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
