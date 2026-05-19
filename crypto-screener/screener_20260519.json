@@ -1,0 +1,91 @@
+{
+  "date": "20260519",
+  "candle_date_time_kst": "2026-05-19T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-19T23:29:53",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-SAHARA",
+          "base": "SAHARA",
+          "korean_name": "사하라에이아이",
+          "candle_date_time_kst": "2026-05-19T09:00:00",
+          "opening_price": 48.6,
+          "high_price": 55.2,
+          "low_price": 48.0,
+          "trade_price": 54.8,
+          "prev_closing_price": 48.6,
+          "change_pct": 12.757201649999999,
+          "high_pct": 13.580246913580249,
+          "value": 22902262423.6548,
+          "volume": 443215112.5090116,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASAHARAKRW",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-ONT",
+          "base": "ONT",
+          "korean_name": "온톨로지",
+          "candle_date_time_kst": "2026-05-19T09:00:00",
+          "opening_price": 86.5,
+          "high_price": 104.0,
+          "low_price": 86.5,
+          "trade_price": 95.5,
+          "prev_closing_price": 86.2,
+          "change_pct": 10.78886311,
+          "high_pct": 20.649651972157766,
+          "value": 41595197682.06094,
+          "volume": 432114055.36523753,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AONTKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Masternodes",
+            "Proof of Stake (PoS)"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 1,
+      "rows": [
+        {
+          "market": "KRW-ONT",
+          "base": "ONT",
+          "korean_name": "온톨로지",
+          "candle_date_time_kst": "2026-05-19T09:00:00",
+          "opening_price": 86.5,
+          "high_price": 104.0,
+          "low_price": 86.5,
+          "trade_price": 95.5,
+          "prev_closing_price": 86.2,
+          "change_pct": 10.78886311,
+          "high_pct": 20.649651972157766,
+          "value": 41595197682.06094,
+          "volume": 432114055.36523753,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AONTKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Masternodes",
+            "Proof of Stake (PoS)"
+          ]
+        }
+      ]
+    }
+  }
+}
