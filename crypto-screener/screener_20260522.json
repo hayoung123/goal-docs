@@ -1,0 +1,146 @@
+{
+  "date": "20260522",
+  "candle_date_time_kst": "2026-05-22T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-22T21:16:56",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 4,
+      "rows": [
+        {
+          "market": "KRW-ALT",
+          "base": "ALT",
+          "korean_name": "알트레이어",
+          "candle_date_time_kst": "2026-05-22T09:00:00",
+          "opening_price": 10.8,
+          "high_price": 16.3,
+          "low_price": 10.7,
+          "trade_price": 15.2,
+          "prev_closing_price": 10.8,
+          "change_pct": 40.74074074,
+          "high_pct": 50.92592592592592,
+          "value": 43310742552.17933,
+          "volume": 3007639586.1477284,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AALTKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem",
+            "Binance Launchpool"
+          ]
+        },
+        {
+          "market": "KRW-NEAR",
+          "base": "NEAR",
+          "korean_name": "니어프로토콜",
+          "candle_date_time_kst": "2026-05-22T09:00:00",
+          "opening_price": 2858.0,
+          "high_price": 3431.0,
+          "low_price": 2835.0,
+          "trade_price": 3291.0,
+          "prev_closing_price": 2862.0,
+          "change_pct": 14.989517820000001,
+          "high_pct": 19.881201956673657,
+          "value": 58776813426.15568,
+          "volume": 18216473.66600116,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ANEARKRW",
+          "theme_categories": [
+            "Privacy Infrastructure",
+            "Andreessen Horowitz (a16z) Portfolio",
+            "Alleged SEC Securities"
+          ]
+        },
+        {
+          "market": "KRW-META",
+          "base": "META",
+          "korean_name": "메타디움",
+          "candle_date_time_kst": "2026-05-22T09:00:00",
+          "opening_price": 14.0,
+          "high_price": 19.1,
+          "low_price": 14.0,
+          "trade_price": 15.8,
+          "prev_closing_price": 14.0,
+          "change_pct": 12.857142860000002,
+          "high_pct": 36.42857142857144,
+          "value": 30345208189.814713,
+          "volume": 1741915620.3047578,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMETAKRW",
+          "theme_categories": [
+            "Launchpad"
+          ]
+        },
+        {
+          "market": "KRW-VVV",
+          "base": "VVV",
+          "korean_name": "베니스토큰",
+          "candle_date_time_kst": "2026-05-22T09:00:00",
+          "opening_price": 26640.0,
+          "high_price": 29620.0,
+          "low_price": 26490.0,
+          "trade_price": 29530.0,
+          "prev_closing_price": 26640.0,
+          "change_pct": 10.84834835,
+          "high_pct": 11.186186186186188,
+          "value": 11944664137.81789,
+          "volume": 429136.20849041,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AVVVKRW",
+          "theme_categories": []
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-ALT",
+          "base": "ALT",
+          "korean_name": "알트레이어",
+          "candle_date_time_kst": "2026-05-22T09:00:00",
+          "opening_price": 10.8,
+          "high_price": 16.3,
+          "low_price": 10.7,
+          "trade_price": 15.2,
+          "prev_closing_price": 10.8,
+          "change_pct": 40.74074074,
+          "high_pct": 50.92592592592592,
+          "value": 43310742552.17933,
+          "volume": 3007639586.1477284,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AALTKRW",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem",
+            "Binance Launchpool"
+          ]
+        },
+        {
+          "market": "KRW-META",
+          "base": "META",
+          "korean_name": "메타디움",
+          "candle_date_time_kst": "2026-05-22T09:00:00",
+          "opening_price": 14.0,
+          "high_price": 19.1,
+          "low_price": 14.0,
+          "trade_price": 15.8,
+          "prev_closing_price": 14.0,
+          "change_pct": 12.857142860000002,
+          "high_pct": 36.42857142857144,
+          "value": 30345208189.814713,
+          "volume": 1741915620.3047578,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMETAKRW",
+          "theme_categories": [
+            "Launchpad"
+          ]
+        }
+      ]
+    }
+  }
+}
