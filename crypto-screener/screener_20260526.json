@@ -1,0 +1,133 @@
+{
+  "date": "20260526",
+  "candle_date_time_kst": "2026-05-26T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-26T23:09:58",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-AZTEC",
+          "base": "AZTEC",
+          "korean_name": "아즈텍",
+          "candle_date_time_kst": "2026-05-26T09:00:00",
+          "opening_price": 35.1,
+          "high_price": 41.5,
+          "low_price": 34.1,
+          "trade_price": 40.7,
+          "prev_closing_price": 35.0,
+          "change_pct": 16.28571429,
+          "high_pct": 18.571428571428573,
+          "value": 16859808543.769112,
+          "volume": 436673710.9931339,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAZTECKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Ethereum Ecosystem",
+            "Layer 2 (L2)"
+          ]
+        },
+        {
+          "market": "KRW-WLD",
+          "base": "WLD",
+          "korean_name": "월드코인",
+          "candle_date_time_kst": "2026-05-26T09:00:00",
+          "opening_price": 492.0,
+          "high_price": 612.0,
+          "low_price": 482.0,
+          "trade_price": 568.0,
+          "prev_closing_price": 492.0,
+          "change_pct": 15.44715447,
+          "high_pct": 24.390243902439025,
+          "value": 78070805850.8313,
+          "volume": 140434161.6849502,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AWLDKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Ethereum Ecosystem",
+            "Decentralized Identifier (DID)"
+          ]
+        },
+        {
+          "market": "KRW-ARKM",
+          "base": "ARKM",
+          "korean_name": "아캄",
+          "candle_date_time_kst": "2026-05-26T09:00:00",
+          "opening_price": 218.0,
+          "high_price": 246.0,
+          "low_price": 209.0,
+          "trade_price": 242.0,
+          "prev_closing_price": 217.0,
+          "change_pct": 11.52073733,
+          "high_pct": 13.36405529953917,
+          "value": 6805070128.452024,
+          "volume": 29189359.48381151,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AARKMKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Exchange-based Tokens",
+            "Analytics"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-WLD",
+          "base": "WLD",
+          "korean_name": "월드코인",
+          "candle_date_time_kst": "2026-05-26T09:00:00",
+          "opening_price": 492.0,
+          "high_price": 612.0,
+          "low_price": 482.0,
+          "trade_price": 568.0,
+          "prev_closing_price": 492.0,
+          "change_pct": 15.44715447,
+          "high_pct": 24.390243902439025,
+          "value": 78070805850.8313,
+          "volume": 140434161.6849502,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AWLDKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Ethereum Ecosystem",
+            "Decentralized Identifier (DID)"
+          ]
+        },
+        {
+          "market": "KRW-MMT",
+          "base": "MMT",
+          "korean_name": "모멘텀",
+          "candle_date_time_kst": "2026-05-26T09:00:00",
+          "opening_price": 192.0,
+          "high_price": 231.0,
+          "low_price": 189.0,
+          "trade_price": 195.0,
+          "prev_closing_price": 192.0,
+          "change_pct": 1.5625,
+          "high_pct": 20.3125,
+          "value": 23364676675.546192,
+          "volume": 111018776.65075555,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMMTKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        }
+      ]
+    }
+  }
+}
