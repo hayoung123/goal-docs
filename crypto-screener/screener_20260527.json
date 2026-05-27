@@ -1,0 +1,153 @@
+{
+  "date": "20260527",
+  "candle_date_time_kst": "2026-05-27T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-27T22:26:49",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-FF",
+          "base": "FF",
+          "korean_name": "팔콘파이낸스",
+          "candle_date_time_kst": "2026-05-27T09:00:00",
+          "opening_price": 140.0,
+          "high_price": 164.0,
+          "low_price": 135.0,
+          "trade_price": 159.0,
+          "prev_closing_price": 140.0,
+          "change_pct": 13.571428569999998,
+          "high_pct": 17.142857142857142,
+          "value": 6610224384.71631,
+          "volume": 43808579.57345052,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AFFKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        },
+        {
+          "market": "KRW-ALT",
+          "base": "ALT",
+          "korean_name": "알트레이어",
+          "candle_date_time_kst": "2026-05-27T09:00:00",
+          "opening_price": 10.4,
+          "high_price": 13.6,
+          "low_price": 10.3,
+          "trade_price": 11.8,
+          "prev_closing_price": 10.4,
+          "change_pct": 13.46153846,
+          "high_pct": 30.76923076923076,
+          "value": 24825331644.971382,
+          "volume": 1998141484.8838198,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AALTKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem",
+            "Binance Launchpool"
+          ]
+        },
+        {
+          "market": "KRW-ICP",
+          "base": "ICP",
+          "korean_name": "인터넷컴퓨터",
+          "candle_date_time_kst": "2026-05-27T09:00:00",
+          "opening_price": 3934.0,
+          "high_price": 4566.0,
+          "low_price": 3934.0,
+          "trade_price": 4380.0,
+          "prev_closing_price": 3929.0,
+          "change_pct": 11.47874777,
+          "high_pct": 16.212776787986765,
+          "value": 24432630524.93826,
+          "volume": 5637056.74953416,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AICPKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Infrastructure",
+            "Smart Contract Platform"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-ALT",
+          "base": "ALT",
+          "korean_name": "알트레이어",
+          "candle_date_time_kst": "2026-05-27T09:00:00",
+          "opening_price": 10.4,
+          "high_price": 13.6,
+          "low_price": 10.3,
+          "trade_price": 11.8,
+          "prev_closing_price": 10.4,
+          "change_pct": 13.46153846,
+          "high_pct": 30.76923076923076,
+          "value": 24825331644.971382,
+          "volume": 1998141484.8838198,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AALTKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem",
+            "Binance Launchpool"
+          ]
+        },
+        {
+          "market": "KRW-ONG",
+          "base": "ONG",
+          "korean_name": "온톨로지가스",
+          "candle_date_time_kst": "2026-05-27T09:00:00",
+          "opening_price": 92.9,
+          "high_price": 115.0,
+          "low_price": 92.7,
+          "trade_price": 96.9,
+          "prev_closing_price": 92.9,
+          "change_pct": 4.30570506,
+          "high_pct": 23.789020452099024,
+          "value": 12389748026.572617,
+          "volume": 119024948.56997466,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AONGKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 1 (L1)"
+          ]
+        },
+        {
+          "market": "KRW-PROS",
+          "base": "PROS",
+          "korean_name": "파로스",
+          "candle_date_time_kst": "2026-05-27T09:00:00",
+          "opening_price": 900.0,
+          "high_price": 1084.0,
+          "low_price": 898.0,
+          "trade_price": 972.0,
+          "prev_closing_price": 902.0,
+          "change_pct": 7.76053215,
+          "high_pct": 20.17738359201774,
+          "value": 13360305950.598053,
+          "volume": 13539761.22846149,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APROSKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 1 (L1)",
+            "Parallelized EVM"
+          ]
+        }
+      ]
+    }
+  }
+}
