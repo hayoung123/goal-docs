@@ -1,0 +1,125 @@
+{
+  "date": "20260528",
+  "candle_date_time_kst": "2026-05-28T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-05-28T23:58:08",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-XLM",
+          "base": "XLM",
+          "korean_name": "스텔라루멘",
+          "candle_date_time_kst": "2026-05-28T09:00:00",
+          "opening_price": 242.0,
+          "high_price": 302.0,
+          "low_price": 241.0,
+          "trade_price": 288.0,
+          "prev_closing_price": 241.0,
+          "change_pct": 19.50207469,
+          "high_pct": 25.311203319502074,
+          "value": 138898484565.58875,
+          "volume": 517242351.97829056,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXLMKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-PRL",
+          "base": "PRL",
+          "korean_name": "펄",
+          "candle_date_time_kst": "2026-05-28T09:00:00",
+          "opening_price": 228.0,
+          "high_price": 329.0,
+          "low_price": 220.0,
+          "trade_price": 270.0,
+          "prev_closing_price": 228.0,
+          "change_pct": 18.421052630000002,
+          "high_pct": 44.29824561403509,
+          "value": 44481606307.38156,
+          "volume": 157780569.63827726,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APRLKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Infrastructure",
+            "Solana Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-PRL",
+          "base": "PRL",
+          "korean_name": "펄",
+          "candle_date_time_kst": "2026-05-28T09:00:00",
+          "opening_price": 228.0,
+          "high_price": 329.0,
+          "low_price": 220.0,
+          "trade_price": 270.0,
+          "prev_closing_price": 228.0,
+          "change_pct": 18.421052630000002,
+          "high_pct": 44.29824561403509,
+          "value": 44481606307.38156,
+          "volume": 157780569.63827726,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APRLKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Infrastructure",
+            "Solana Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-MON",
+          "base": "MON",
+          "korean_name": "모나드",
+          "candle_date_time_kst": "2026-05-28T09:00:00",
+          "opening_price": 34.4,
+          "high_price": 45.6,
+          "low_price": 33.6,
+          "trade_price": 35.3,
+          "prev_closing_price": 34.4,
+          "change_pct": 2.61627907,
+          "high_pct": 32.55813953488373,
+          "value": 12293097367.616297,
+          "volume": 327249348.7207103,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMONKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 1 (L1)",
+            "Animoca Brands Portfolio"
+          ]
+        },
+        {
+          "market": "KRW-XLM",
+          "base": "XLM",
+          "korean_name": "스텔라루멘",
+          "candle_date_time_kst": "2026-05-28T09:00:00",
+          "opening_price": 242.0,
+          "high_price": 302.0,
+          "low_price": 241.0,
+          "trade_price": 288.0,
+          "prev_closing_price": 241.0,
+          "change_pct": 19.50207469,
+          "high_pct": 25.311203319502074,
+          "value": 138898484565.58875,
+          "volume": 517242351.97829056,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AXLMKRW&interval=D",
+          "theme_categories": []
+        }
+      ]
+    }
+  }
+}
