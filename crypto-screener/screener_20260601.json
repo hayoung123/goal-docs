@@ -1,0 +1,175 @@
+{
+  "date": "20260601",
+  "candle_date_time_kst": "2026-06-01T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-06-01T23:04:00",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 4,
+      "rows": [
+        {
+          "market": "KRW-SLX",
+          "base": "SLX",
+          "korean_name": "솔스티스",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 251.0,
+          "high_price": 748.0,
+          "low_price": 251.0,
+          "trade_price": 455.0,
+          "prev_closing_price": 251.0,
+          "change_pct": 81.2749004,
+          "high_pct": 198.00796812749005,
+          "value": 149908095448.2134,
+          "volume": 251934269.88324764,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASLXKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Yield Farming",
+            "BNB Chain Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-AERGO",
+          "base": "AERGO",
+          "korean_name": "아르고",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 71.4,
+          "high_price": 93.6,
+          "low_price": 68.0,
+          "trade_price": 84.6,
+          "prev_closing_price": 71.4,
+          "change_pct": 18.48739496,
+          "high_pct": 31.0924369747899,
+          "value": 52531227364.115944,
+          "volume": 613754585.5147815,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAERGOKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Ethereum Ecosystem",
+            "Sequoia Capital Portfolio"
+          ]
+        },
+        {
+          "market": "KRW-FF",
+          "base": "FF",
+          "korean_name": "팔콘파이낸스",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 149.0,
+          "high_price": 176.0,
+          "low_price": 148.0,
+          "trade_price": 167.0,
+          "prev_closing_price": 149.0,
+          "change_pct": 12.080536910000001,
+          "high_pct": 18.120805369127517,
+          "value": 15034038864.109917,
+          "volume": 89672648.49779208,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AFFKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        },
+        {
+          "market": "KRW-PIEVERSE",
+          "base": "PIEVERSE",
+          "korean_name": "파이버스",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 1025.0,
+          "high_price": 1150.0,
+          "low_price": 1024.0,
+          "trade_price": 1144.0,
+          "prev_closing_price": 1025.0,
+          "change_pct": 11.6097561,
+          "high_pct": 12.195121951219512,
+          "value": 7563496103.129551,
+          "volume": 6857179.5423602,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APIEVERSEKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "BNB Chain Ecosystem",
+            "Ethereum Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-SLX",
+          "base": "SLX",
+          "korean_name": "솔스티스",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 251.0,
+          "high_price": 748.0,
+          "low_price": 251.0,
+          "trade_price": 455.0,
+          "prev_closing_price": 251.0,
+          "change_pct": 81.2749004,
+          "high_pct": 198.00796812749005,
+          "value": 149908095448.2134,
+          "volume": 251934269.88324764,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASLXKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Yield Farming",
+            "BNB Chain Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-WAL",
+          "base": "WAL",
+          "korean_name": "월러스",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 86.7,
+          "high_price": 118.0,
+          "low_price": 86.7,
+          "trade_price": 89.4,
+          "prev_closing_price": 86.3,
+          "change_pct": 3.59212051,
+          "high_pct": 36.73232908458865,
+          "value": 21620251905.867798,
+          "volume": 210172169.4935524,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AWALKRW&interval=D",
+          "theme_categories": [
+            "Infrastructure",
+            "Storage",
+            "Sui Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-AERGO",
+          "base": "AERGO",
+          "korean_name": "아르고",
+          "candle_date_time_kst": "2026-06-01T09:00:00",
+          "opening_price": 71.4,
+          "high_price": 93.6,
+          "low_price": 68.0,
+          "trade_price": 84.6,
+          "prev_closing_price": 71.4,
+          "change_pct": 18.48739496,
+          "high_pct": 31.0924369747899,
+          "value": 52531227364.115944,
+          "volume": 613754585.5147815,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAERGOKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Ethereum Ecosystem",
+            "Sequoia Capital Portfolio"
+          ]
+        }
+      ]
+    }
+  }
+}
