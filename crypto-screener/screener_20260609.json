@@ -1,0 +1,175 @@
+{
+  "date": "20260609",
+  "candle_date_time_kst": "2026-06-09T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-06-09T21:15:39",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-SLX",
+          "base": "SLX",
+          "korean_name": "솔스티스",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 300.0,
+          "high_price": 397.0,
+          "low_price": 276.0,
+          "trade_price": 342.0,
+          "prev_closing_price": 299.0,
+          "change_pct": 14.3812709,
+          "high_pct": 32.77591973244147,
+          "value": 40759135956.734474,
+          "volume": 116642045.73466542,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASLXKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Yield Farming",
+            "BNB Chain Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-IO",
+          "base": "IO",
+          "korean_name": "아이오넷",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 223.0,
+          "high_price": 260.0,
+          "low_price": 212.0,
+          "trade_price": 246.0,
+          "prev_closing_price": 222.0,
+          "change_pct": 10.81081081,
+          "high_pct": 17.117117117117118,
+          "value": 5444422456.10279,
+          "volume": 22573942.68166833,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AIOKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Internet of Things (IOT)",
+            "Binance Launchpool"
+          ]
+        },
+        {
+          "market": "KRW-OPEN",
+          "base": "OPEN",
+          "korean_name": "오픈렛저",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 299.0,
+          "high_price": 329.0,
+          "low_price": 290.0,
+          "trade_price": 329.0,
+          "prev_closing_price": 299.0,
+          "change_pct": 10.03344482,
+          "high_pct": 10.033444816053512,
+          "value": 3211739372.5785003,
+          "volume": 10231088.09006084,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AOPENKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 4,
+      "rows": [
+        {
+          "market": "KRW-MOVE",
+          "base": "MOVE",
+          "korean_name": "무브먼트",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 20.5,
+          "high_price": 31.0,
+          "low_price": 20.2,
+          "trade_price": 22.5,
+          "prev_closing_price": 20.5,
+          "change_pct": 9.75609756,
+          "high_pct": 51.21951219512195,
+          "value": 91268035554.51373,
+          "volume": 3682736981.8056393,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMOVEKRW&interval=D",
+          "theme_categories": [
+            "Infrastructure",
+            "Smart Contract Platform",
+            "Layer 1 (L1)"
+          ]
+        },
+        {
+          "market": "KRW-SLX",
+          "base": "SLX",
+          "korean_name": "솔스티스",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 300.0,
+          "high_price": 397.0,
+          "low_price": 276.0,
+          "trade_price": 342.0,
+          "prev_closing_price": 299.0,
+          "change_pct": 14.3812709,
+          "high_pct": 32.77591973244147,
+          "value": 40759135956.734474,
+          "volume": 116642045.73466542,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASLXKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Yield Farming",
+            "BNB Chain Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-CC",
+          "base": "CC",
+          "korean_name": "캔톤",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 240.0,
+          "high_price": 298.0,
+          "low_price": 238.0,
+          "trade_price": 255.0,
+          "prev_closing_price": 240.0,
+          "change_pct": 6.25,
+          "high_pct": 24.166666666666668,
+          "value": 9245723382.916317,
+          "volume": 35958193.69689028,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ACCKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 1 (L1)",
+            "Privacy Blockchain"
+          ]
+        },
+        {
+          "market": "KRW-POKT",
+          "base": "POKT",
+          "korean_name": "포켓네트워크",
+          "candle_date_time_kst": "2026-06-09T09:00:00",
+          "opening_price": 12.1,
+          "high_price": 15.0,
+          "low_price": 11.5,
+          "trade_price": 12.2,
+          "prev_closing_price": 12.1,
+          "change_pct": 0.8264462800000001,
+          "high_pct": 23.966942148760335,
+          "value": 5202138969.416873,
+          "volume": 400276552.329049,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APOKTKRW&interval=D",
+          "theme_categories": [
+            "BNB Chain Ecosystem",
+            "Solana Ecosystem",
+            "Polygon Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
