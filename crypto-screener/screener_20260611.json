@@ -1,0 +1,290 @@
+{
+  "date": "20260611",
+  "candle_date_time_kst": "2026-06-11T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-06-12T02:15:43",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 9,
+      "rows": [
+        {
+          "market": "KRW-ID",
+          "base": "ID",
+          "korean_name": "스페이스아이디",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 39.7,
+          "high_price": 56.1,
+          "low_price": 39.0,
+          "trade_price": 52.8,
+          "prev_closing_price": 39.8,
+          "change_pct": 32.66331658,
+          "high_pct": 40.95477386934675,
+          "value": 91018763587.05733,
+          "volume": 1826715012.0000527,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AIDKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-CTC",
+          "base": "CTC",
+          "korean_name": "크레딧코인",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 137.0,
+          "high_price": 165.0,
+          "low_price": 136.0,
+          "trade_price": 157.0,
+          "prev_closing_price": 136.0,
+          "change_pct": 15.44117647,
+          "high_pct": 21.323529411764707,
+          "value": 10656043465.232946,
+          "volume": 68997477.86111031,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ACTCKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-ASTR",
+          "base": "ASTR",
+          "korean_name": "아스타",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 8.13,
+          "high_price": 11.0,
+          "low_price": 8.13,
+          "trade_price": 9.25,
+          "prev_closing_price": 8.11,
+          "change_pct": 14.0567201,
+          "high_pct": 35.63501849568435,
+          "value": 42323357963.35835,
+          "volume": 4350371414.927642,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AASTRKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Polkadot Ecosystem",
+            "Layer 1 (L1)"
+          ]
+        },
+        {
+          "market": "KRW-A",
+          "base": "A",
+          "korean_name": "볼타",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 95.6,
+          "high_price": 109.0,
+          "low_price": 95.6,
+          "trade_price": 108.0,
+          "prev_closing_price": 95.5,
+          "change_pct": 13.08900524,
+          "high_pct": 14.136125654450263,
+          "value": 557993496.1823643,
+          "volume": 5466981.95200633,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-PYTH",
+          "base": "PYTH",
+          "korean_name": "피스네트워크",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 46.8,
+          "high_price": 55.8,
+          "low_price": 46.8,
+          "trade_price": 52.9,
+          "prev_closing_price": 46.8,
+          "change_pct": 13.03418803,
+          "high_pct": 19.230769230769234,
+          "value": 11445911355.061197,
+          "volume": 215697702.971118,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APYTHKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-PRL",
+          "base": "PRL",
+          "korean_name": "펄",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 265.0,
+          "high_price": 319.0,
+          "low_price": 264.0,
+          "trade_price": 299.0,
+          "prev_closing_price": 265.0,
+          "change_pct": 12.83018868,
+          "high_pct": 20.37735849056604,
+          "value": 5709779006.48355,
+          "volume": 18917065.26621862,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APRLKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Infrastructure",
+            "Solana Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-ZRO",
+          "base": "ZRO",
+          "korean_name": "레이어제로",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 1226.0,
+          "high_price": 1459.0,
+          "low_price": 1222.0,
+          "trade_price": 1363.0,
+          "prev_closing_price": 1222.0,
+          "change_pct": 11.53846154,
+          "high_pct": 19.394435351882162,
+          "value": 8507113461.284156,
+          "volume": 6268624.69110349,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AZROKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-AVNT",
+          "base": "AVNT",
+          "korean_name": "아반티스",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 153.0,
+          "high_price": 172.0,
+          "low_price": 153.0,
+          "trade_price": 168.0,
+          "prev_closing_price": 152.0,
+          "change_pct": 10.52631579,
+          "high_pct": 13.157894736842104,
+          "value": 3612506510.975948,
+          "volume": 22029883.20023632,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAVNTKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Derivatives",
+            "Perpetuals"
+          ]
+        },
+        {
+          "market": "KRW-ATOM",
+          "base": "ATOM",
+          "korean_name": "코스모스",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 2657.0,
+          "high_price": 2996.0,
+          "low_price": 2657.0,
+          "trade_price": 2932.0,
+          "prev_closing_price": 2653.0,
+          "change_pct": 10.51639653,
+          "high_pct": 12.928759894459102,
+          "value": 2510565796.540451,
+          "volume": 868369.16330537,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AATOMKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem",
+            "Cosmos Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 5,
+      "rows": [
+        {
+          "market": "KRW-ID",
+          "base": "ID",
+          "korean_name": "스페이스아이디",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 39.7,
+          "high_price": 56.1,
+          "low_price": 39.0,
+          "trade_price": 52.8,
+          "prev_closing_price": 39.8,
+          "change_pct": 32.66331658,
+          "high_pct": 40.95477386934675,
+          "value": 91018763587.05733,
+          "volume": 1826715012.0000527,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AIDKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-ASTR",
+          "base": "ASTR",
+          "korean_name": "아스타",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 8.13,
+          "high_price": 11.0,
+          "low_price": 8.13,
+          "trade_price": 9.25,
+          "prev_closing_price": 8.11,
+          "change_pct": 14.0567201,
+          "high_pct": 35.63501849568435,
+          "value": 42323357963.35835,
+          "volume": 4350371414.927642,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AASTRKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Polkadot Ecosystem",
+            "Layer 1 (L1)"
+          ]
+        },
+        {
+          "market": "KRW-BLAST",
+          "base": "BLAST",
+          "korean_name": "블라스트",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 0.451,
+          "high_price": 0.569,
+          "low_price": 0.451,
+          "trade_price": 0.478,
+          "prev_closing_price": 0.45,
+          "change_pct": 6.22222222,
+          "high_pct": 26.444444444444432,
+          "value": 18099375262.756626,
+          "volume": 34681220962.84759,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ABLASTKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-CTC",
+          "base": "CTC",
+          "korean_name": "크레딧코인",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 137.0,
+          "high_price": 165.0,
+          "low_price": 136.0,
+          "trade_price": 157.0,
+          "prev_closing_price": 136.0,
+          "change_pct": 15.44117647,
+          "high_pct": 21.323529411764707,
+          "value": 10656043465.232946,
+          "volume": 68997477.86111031,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ACTCKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-PRL",
+          "base": "PRL",
+          "korean_name": "펄",
+          "candle_date_time_kst": "2026-06-11T09:00:00",
+          "opening_price": 265.0,
+          "high_price": 319.0,
+          "low_price": 264.0,
+          "trade_price": 299.0,
+          "prev_closing_price": 265.0,
+          "change_pct": 12.83018868,
+          "high_pct": 20.37735849056604,
+          "value": 5709779006.48355,
+          "volume": 18917065.26621862,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3APRLKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Infrastructure",
+            "Solana Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
