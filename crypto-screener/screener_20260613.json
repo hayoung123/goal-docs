@@ -1,0 +1,146 @@
+{
+  "date": "20260613",
+  "candle_date_time_kst": "2026-06-13T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-06-13T16:54:43",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 4,
+      "rows": [
+        {
+          "market": "KRW-VVV",
+          "base": "VVV",
+          "korean_name": "베니스토큰",
+          "candle_date_time_kst": "2026-06-13T09:00:00",
+          "opening_price": 21540.0,
+          "high_price": 26950.0,
+          "low_price": 21440.0,
+          "trade_price": 25500.0,
+          "prev_closing_price": 21540.0,
+          "change_pct": 18.384401110000002,
+          "high_pct": 25.11606313834726,
+          "value": 20163928791.716454,
+          "volume": 804070.36751165,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AVVVKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-AXL",
+          "base": "AXL",
+          "korean_name": "엑셀라",
+          "candle_date_time_kst": "2026-06-13T09:00:00",
+          "opening_price": 65.9,
+          "high_price": 81.9,
+          "low_price": 65.9,
+          "trade_price": 74.6,
+          "prev_closing_price": 65.7,
+          "change_pct": 13.54642314,
+          "high_pct": 24.657534246575345,
+          "value": 25123692199.586292,
+          "volume": 334138635.8938318,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAXLKRW&interval=D",
+          "theme_categories": [
+            "Cross-chain Communication",
+            "Bridge Governance Tokens",
+            "BNB Chain Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-MEGA",
+          "base": "MEGA",
+          "korean_name": "메가이더",
+          "candle_date_time_kst": "2026-06-13T09:00:00",
+          "opening_price": 70.3,
+          "high_price": 81.8,
+          "low_price": 70.2,
+          "trade_price": 78.1,
+          "prev_closing_price": 70.3,
+          "change_pct": 11.095305830000001,
+          "high_pct": 16.358463726884782,
+          "value": 13035482988.562357,
+          "volume": 167558161.3378658,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMEGAKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Layer 2 (L2)",
+            "MegaETH Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-TAO",
+          "base": "TAO",
+          "korean_name": "비트텐서",
+          "candle_date_time_kst": "2026-06-13T09:00:00",
+          "opening_price": 320100.0,
+          "high_price": 357400.0,
+          "low_price": 320000.0,
+          "trade_price": 352200.0,
+          "prev_closing_price": 320000.0,
+          "change_pct": 10.0625,
+          "high_pct": 11.6875,
+          "value": 2794982127.437381,
+          "volume": 8136.55571126,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ATAOKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Smart Contract Platform",
+            "Layer 1 (L1)"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 2,
+      "rows": [
+        {
+          "market": "KRW-VVV",
+          "base": "VVV",
+          "korean_name": "베니스토큰",
+          "candle_date_time_kst": "2026-06-13T09:00:00",
+          "opening_price": 21540.0,
+          "high_price": 26950.0,
+          "low_price": 21440.0,
+          "trade_price": 25500.0,
+          "prev_closing_price": 21540.0,
+          "change_pct": 18.384401110000002,
+          "high_pct": 25.11606313834726,
+          "value": 20163928791.716454,
+          "volume": 804070.36751165,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AVVVKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-AXL",
+          "base": "AXL",
+          "korean_name": "엑셀라",
+          "candle_date_time_kst": "2026-06-13T09:00:00",
+          "opening_price": 65.9,
+          "high_price": 81.9,
+          "low_price": 65.9,
+          "trade_price": 74.6,
+          "prev_closing_price": 65.7,
+          "change_pct": 13.54642314,
+          "high_pct": 24.657534246575345,
+          "value": 25123692199.586292,
+          "volume": 334138635.8938318,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAXLKRW&interval=D",
+          "theme_categories": [
+            "Cross-chain Communication",
+            "Bridge Governance Tokens",
+            "BNB Chain Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
