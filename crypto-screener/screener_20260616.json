@@ -1,0 +1,153 @@
+{
+  "date": "20260616",
+  "candle_date_time_kst": "2026-06-16T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-06-17T01:45:53",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-SENT",
+          "base": "SENT",
+          "korean_name": "센티언트",
+          "candle_date_time_kst": "2026-06-16T09:00:00",
+          "opening_price": 22.5,
+          "high_price": 29.5,
+          "low_price": 22.4,
+          "trade_price": 28.9,
+          "prev_closing_price": 22.5,
+          "change_pct": 28.444444439999998,
+          "high_pct": 31.11111111111111,
+          "value": 12934239421.519161,
+          "volume": 484002290.18356854,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASENTKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Smart Contract Platform",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-AERO",
+          "base": "AERO",
+          "korean_name": "에어로드롬파이낸스",
+          "candle_date_time_kst": "2026-06-16T09:00:00",
+          "opening_price": 641.0,
+          "high_price": 767.0,
+          "low_price": 619.0,
+          "trade_price": 723.0,
+          "prev_closing_price": 640.0,
+          "change_pct": 12.968750000000002,
+          "high_pct": 19.84375,
+          "value": 4421315171.904685,
+          "volume": 6171460.08316909,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAEROKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        },
+        {
+          "market": "KRW-MMT",
+          "base": "MMT",
+          "korean_name": "모멘텀",
+          "candle_date_time_kst": "2026-06-16T09:00:00",
+          "opening_price": 192.0,
+          "high_price": 215.0,
+          "low_price": 190.0,
+          "trade_price": 211.0,
+          "prev_closing_price": 191.0,
+          "change_pct": 10.47120419,
+          "high_pct": 12.56544502617801,
+          "value": 1851529642.056605,
+          "volume": 8905704.17468543,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMMTKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 3,
+      "rows": [
+        {
+          "market": "KRW-SENT",
+          "base": "SENT",
+          "korean_name": "센티언트",
+          "candle_date_time_kst": "2026-06-16T09:00:00",
+          "opening_price": 22.5,
+          "high_price": 29.5,
+          "low_price": 22.4,
+          "trade_price": 28.9,
+          "prev_closing_price": 22.5,
+          "change_pct": 28.444444439999998,
+          "high_pct": 31.11111111111111,
+          "value": 12934239421.519161,
+          "volume": 484002290.18356854,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASENTKRW&interval=D",
+          "theme_categories": [
+            "Artificial Intelligence (AI)",
+            "Smart Contract Platform",
+            "Ethereum Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-STRAX",
+          "base": "STRAX",
+          "korean_name": "저트라",
+          "candle_date_time_kst": "2026-06-16T09:00:00",
+          "opening_price": 14.2,
+          "high_price": 18.1,
+          "low_price": 14.2,
+          "trade_price": 15.2,
+          "prev_closing_price": 14.1,
+          "change_pct": 7.801418440000001,
+          "high_pct": 28.368794326241147,
+          "value": 24121085032.629986,
+          "volume": 1460203313.7427025,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ASTRAXKRW&interval=D",
+          "theme_categories": [
+            "Smart Contract Platform",
+            "Proof of Stake (PoS)"
+          ]
+        },
+        {
+          "market": "KRW-JTO",
+          "base": "JTO",
+          "korean_name": "지토",
+          "candle_date_time_kst": "2026-06-16T09:00:00",
+          "opening_price": 1095.0,
+          "high_price": 1322.0,
+          "low_price": 1061.0,
+          "trade_price": 1196.0,
+          "prev_closing_price": 1095.0,
+          "change_pct": 9.223744289999999,
+          "high_pct": 20.730593607305934,
+          "value": 96653088432.71942,
+          "volume": 80878200.02730682,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AJTOKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Solana Ecosystem",
+            "Liquid Staking Governance Tokens"
+          ]
+        }
+      ]
+    }
+  }
+}
