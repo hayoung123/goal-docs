@@ -1,0 +1,225 @@
+{
+  "date": "20260622",
+  "candle_date_time_kst": "2026-06-22T09:00:00",
+  "in_progress": true,
+  "generated_at": "2026-06-23T00:13:40",
+  "screens": {
+    "persistent": {
+      "label": "지속 강세 (현재 등락률 +10%+)",
+      "params": {
+        "column": "change_pct",
+        "min_pct": 10.0
+      },
+      "n": 6,
+      "rows": [
+        {
+          "market": "KRW-LAYER",
+          "base": "LAYER",
+          "korean_name": "솔레이어",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 98.6,
+          "high_price": 137.0,
+          "low_price": 98.6,
+          "trade_price": 117.0,
+          "prev_closing_price": 98.4,
+          "change_pct": 18.90243902,
+          "high_pct": 39.227642276422756,
+          "value": 24337459261.148636,
+          "volume": 196415644.82873628,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Solana Ecosystem",
+            "LSDFi"
+          ]
+        },
+        {
+          "market": "KRW-ID",
+          "base": "ID",
+          "korean_name": "스페이스아이디",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 46.8,
+          "high_price": 60.7,
+          "low_price": 44.7,
+          "trade_price": 55.6,
+          "prev_closing_price": 46.8,
+          "change_pct": 18.8034188,
+          "high_pct": 29.700854700854716,
+          "value": 85648143493.02756,
+          "volume": 1549993859.0460954,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AIDKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-TIA",
+          "base": "TIA",
+          "korean_name": "셀레스티아",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 550.0,
+          "high_price": 618.0,
+          "low_price": 550.0,
+          "trade_price": 613.0,
+          "prev_closing_price": 549.0,
+          "change_pct": 11.657559200000001,
+          "high_pct": 12.568306010928962,
+          "value": 2312017427.858357,
+          "volume": 3858716.45266603,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ATIAKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-MMT",
+          "base": "MMT",
+          "korean_name": "모멘텀",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 251.0,
+          "high_price": 291.0,
+          "low_price": 247.0,
+          "trade_price": 280.0,
+          "prev_closing_price": 251.0,
+          "change_pct": 11.55378486,
+          "high_pct": 15.936254980079681,
+          "value": 5257811639.267637,
+          "volume": 19591285.33922051,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMMTKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Exchange (DEX)",
+            "Exchange-based Tokens",
+            "Decentralized Finance (DeFi)"
+          ]
+        },
+        {
+          "market": "KRW-ENA",
+          "base": "ENA",
+          "korean_name": "에테나",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 131.0,
+          "high_price": 149.0,
+          "low_price": 131.0,
+          "trade_price": 146.0,
+          "prev_closing_price": 131.0,
+          "change_pct": 11.450381680000001,
+          "high_pct": 13.740458015267176,
+          "value": 9182449786.997744,
+          "volume": 64355482.59960369,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AENAKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Binance Launchpool",
+            "Solana Ecosystem"
+          ]
+        },
+        {
+          "market": "KRW-BREV",
+          "base": "BREV",
+          "korean_name": "브레비스",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 119.0,
+          "high_price": 132.0,
+          "low_price": 119.0,
+          "trade_price": 131.0,
+          "prev_closing_price": 118.0,
+          "change_pct": 11.016949149999999,
+          "high_pct": 11.864406779661017,
+          "value": 858947444.5306067,
+          "volume": 6761326.43501376,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ABREVKRW&interval=D",
+          "theme_categories": [
+            "Infrastructure",
+            "Smart Contract Platform",
+            "BNB Chain Ecosystem"
+          ]
+        }
+      ]
+    },
+    "pump": {
+      "label": "장중 펌핑 (고점 등락률 +20%+, 꼬리 펌핑 포함)",
+      "params": {
+        "column": "high_pct",
+        "min_pct": 20.0
+      },
+      "n": 4,
+      "rows": [
+        {
+          "market": "KRW-LAYER",
+          "base": "LAYER",
+          "korean_name": "솔레이어",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 98.6,
+          "high_price": 137.0,
+          "low_price": 98.6,
+          "trade_price": 117.0,
+          "prev_closing_price": 98.4,
+          "change_pct": 18.90243902,
+          "high_pct": 39.227642276422756,
+          "value": 24337459261.148636,
+          "volume": 196415644.82873628,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3ALAYERKRW&interval=D",
+          "theme_categories": [
+            "Decentralized Finance (DeFi)",
+            "Solana Ecosystem",
+            "LSDFi"
+          ]
+        },
+        {
+          "market": "KRW-AQT",
+          "base": "AQT",
+          "korean_name": "알파쿼크",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 388.0,
+          "high_price": 535.0,
+          "low_price": 376.0,
+          "trade_price": 405.0,
+          "prev_closing_price": 388.0,
+          "change_pct": 4.3814433,
+          "high_pct": 37.88659793814433,
+          "value": 39117914246.398445,
+          "volume": 84580534.00670895,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AAQTKRW&interval=D",
+          "theme_categories": [
+            "NFT",
+            "Ethereum Ecosystem",
+            "NFTFi"
+          ]
+        },
+        {
+          "market": "KRW-ID",
+          "base": "ID",
+          "korean_name": "스페이스아이디",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 46.8,
+          "high_price": 60.7,
+          "low_price": 44.7,
+          "trade_price": 55.6,
+          "prev_closing_price": 46.8,
+          "change_pct": 18.8034188,
+          "high_pct": 29.700854700854716,
+          "value": 85648143493.02756,
+          "volume": 1549993859.0460954,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AIDKRW&interval=D",
+          "theme_categories": []
+        },
+        {
+          "market": "KRW-MOC",
+          "base": "MOC",
+          "korean_name": "모스코인",
+          "candle_date_time_kst": "2026-06-22T09:00:00",
+          "opening_price": 27.4,
+          "high_price": 34.2,
+          "low_price": 27.1,
+          "trade_price": 28.2,
+          "prev_closing_price": 27.5,
+          "change_pct": 2.5454545499999996,
+          "high_pct": 24.363636363636374,
+          "value": 5755076453.949549,
+          "volume": 184739576.0054539,
+          "tradingview_url": "https://kr.tradingview.com/chart/?symbol=UPBIT%3AMOCKRW&interval=D",
+          "theme_categories": [
+            "Augmented Reality",
+            "Ethereum Ecosystem"
+          ]
+        }
+      ]
+    }
+  }
+}
